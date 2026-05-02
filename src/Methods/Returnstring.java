@@ -11,6 +11,3 @@ class Returnstring{
 
     }
 }
-git remote remove origin
-git remote add origin https://github.com/sreenithishm/dsa_practice.git
-git push -u origin main
