@@ -34,6 +34,3 @@ public class FindingDuplicates2 {
         }
     }
 
-git add src/Sorting/FindingDuplicates2.java
-git commit -m "solved LC 287 find the duplicate number"
-git push
