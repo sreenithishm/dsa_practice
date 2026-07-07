@@ -19,11 +19,6 @@ public class FindingDuplicates2 {
                 i++;
             }
         }
-        for (int j = 0; j < arr.length; j++) {
-            if (arr[j] != j+1) {
-                return arr[j];
-            }
-        }
     return -1;
     }
         static void swap ( int[] arr, int first, int second){
@@ -33,4 +28,5 @@ public class FindingDuplicates2 {
 
         }
     }
+
 
