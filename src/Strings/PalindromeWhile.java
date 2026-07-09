@@ -7,6 +7,9 @@ public class PalindromeWhile {
     }
 
     static boolean ispalindrome(String str) {
+        if(str==null||str.length()==0){
+            return true;
+        }
         str = str.toLowerCase();
         int start=0;
         int end = str.length()-1;
